@@ -16,10 +16,9 @@
 
 프로젝트를 로컬 환경에서 설정하려면 다음 단계를 따르세요:
 
-1. 저장소 복제: `git clone https://github.com/pang-pangho/starbucks.git`
-2. 프로젝트 디렉토리로 이동: `cd starbucks`
-3. 선호하는 웹 브라우저에서 `index.html` 파일을 엽니다.
+## 주소로 바로 이용
 
+https://pangtarbucks.netlify.app/
 
 
 ## 사용된 기술
